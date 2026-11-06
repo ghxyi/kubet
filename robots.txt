@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /kubet/
+
+Sitemap: https://ghxyi.github.io/kubet/sitemap.xml
