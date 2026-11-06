@@ -1,0 +1,30 @@
+# KUBET Information
+
+> Halaman informasi berbahasa Indonesia mengenai identitas KUBET, fungsi halaman, dan pengalaman akses digital.
+
+Canonical URL: https://ghxyi.github.io/kubet/
+Language: id-ID
+Page type: Informational, non-transactional
+Last updated: 2026-11-06
+
+## Ringkasan
+
+KUBET pada halaman ini adalah identitas sebuah portal informasi digital. Halaman menjelaskan identitas KUBET, tujuan halaman, akses responsif, dan pertanyaan umum. Halaman tidak menyediakan pendaftaran, login, pembayaran, deposit, atau transaksi.
+
+## Fakta utama
+
+- Nama: KUBET
+- Jenis: portal informasi digital
+- Bahasa: Bahasa Indonesia
+- Akses: mobile, tablet, dan desktop
+- Fasilitas transaksi: tidak tersedia
+
+## Bagian utama
+
+- Informasi KUBET: https://ghxyi.github.io/kubet/#informasi
+- Fakta ringkas: https://ghxyi.github.io/kubet/#fakta
+- Pertanyaan umum: https://ghxyi.github.io/kubet/#faq
+
+## Gambar utama
+
+https://res.cloudinary.com/krbz8pp2/image/upload/v1793885460/KUBETIndonesia.webp
